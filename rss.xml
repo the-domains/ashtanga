@@ -4,8 +4,15 @@
         <description><![CDATA[AshtangaYoga]]></description>
         <link>https://thegrid.ai/ashtanga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 16:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 16:14:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ashtanga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How do I create something with a menu?]]></title>
+            <description><![CDATA[<article><h1>How do I create something with a menu?</h1><p>I want to create a menu</p></article>]]></description>
+            <link>https://thegrid.ai/ashtanga/how-do-i-create-something-with-a-menu/index.html</link>
+            <guid isPermaLink="false">b79b9e25-8802-4513-bf89-edb9b9956d07</guid>
+            <pubDate>Wed, 11 May 2016 16:14:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[I want to create a new page]]></title>
             <description><![CDATA[<h1>I want to create a new page</h1>]]></description>
