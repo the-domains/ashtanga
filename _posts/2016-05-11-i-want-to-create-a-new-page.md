@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-11T16:13:38.605Z'
-dateModified: '2016-05-11T16:12:11.142Z'
+datePublished: '2016-05-11T16:14:00.575Z'
+dateModified: '2016-05-11T16:13:45.863Z'
 title: I want to create a new page
 author: []
 sourcePath: _posts/2016-05-11-i-want-to-create-a-new-page.md
